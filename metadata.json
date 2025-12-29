@@ -1,0 +1,7 @@
+{
+  "name": "两阶段字幕工作流助手",
+  "description": "一个专业的视频字幕处理工具，通过‘分析确认’和‘专业格式化’两个阶段，协助用户生成高质量、符合短视频审美标准的字幕稿件。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
